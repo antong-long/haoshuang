@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hengbangqifu.jfqb</string>
+				<string>com.hengbangqifu.hsqb</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>jfqb</string>
+				<string>hsqb</string>
 			</dict>
 		</dict>
 	</array>
